@@ -25,7 +25,7 @@ Je suis un développeur Python et ingénieur de données passionné par la trans
 
 | Projet | Description | Stack |
 | :--- | :--- | :--- |
-| 1. **[Bot de Trading à Microservices](https://github.com/Obed-Sadia/bot-de-trading-microservices)** | Architecture événementielle (Python, Asyncio) pour le trading de crypto, avec monitoring de niveau professionnel. | `FastAPI` `Docker` `InfluxDB` `Redis` `PyTorch` |
+| 1. **[Bot de Trading à Microservices](https://github.com/Obed-Sadia/bot-trading)** | Architecture événementielle (Python, Asyncio) pour le trading de crypto, avec monitoring de niveau professionnel. | `FastAPI` `Docker` `InfluxDB` `Redis` `PyTorch` |
 | 2. **[API E-commerce Scalable](https://github.com/Obed-Sadia/api-ecommerce-flask-scalable)** | API Flask évolutive avec Postgres, Redis (Cache) et RQ (Tâches Asynchrones), entièrement gérée par Docker-Compose. | `Flask` `PostgreSQL` `Redis` `RQ` `Docker` |
 | 3. **[Gestion Parcours Académique](https://github.com/Obed-Sadia/gestion-parcours-academique-nodejs)** | API RESTful full-stack (Node.js/Express) avec authentification JWT et frontend en JavaScript vanille. | `Node.js` `Express` `SQLite` `JWT` |
 
